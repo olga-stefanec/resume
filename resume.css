@@ -1,0 +1,61 @@
+.left-side {
+  padding: 15px;
+  background-color: rgb(231, 213, 219);
+  height: 100%;
+}
+.left-side .image img {
+  height: 170px;
+  width: 170px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.title {
+  padding-left: 25px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: solid black 2px;
+  margin: 10px 0px;
+}
+.right-side .title-with-name {
+  background-color: rgb(58, 57, 57);
+  color: aliceblue;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+.right-side .title-with-name .name {
+  font-size: 50px;
+  border-bottom: 2px solid aliceblue;
+}
+.right-side .title-with-name .marketing {
+  font-size: 15px;
+  position: absolute;
+  top: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile {
+  height: 30px;
+  background-color: rgb(231, 213, 219);
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+b {
+  text-transform: uppercase;
+}
+table .td {
+  width: 100%;
+  width: 50px;
+}
+
+.line {
+  line-height: 40px;
+}
