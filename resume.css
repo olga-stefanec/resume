@@ -16,6 +16,7 @@
   letter-spacing: 2px;
   border-bottom: solid black 2px;
   margin: 10px 0px;
+  padding-top: 20px;
 }
 .right-side .title-with-name {
   background-color: rgb(58, 57, 57);
@@ -42,7 +43,7 @@
 .profile {
   height: 30px;
   background-color: rgb(231, 213, 219);
-  margin-top: 30px;
+  margin: 20px 0px 20px 0px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -57,5 +58,19 @@ table .td {
 }
 
 .line {
-  line-height: 40px;
+  line-height: 20px;
+}
+.red {
+  padding: 20px 0px 20px 0px;
+}
+.one {
+  width: auto;
+  height: 100px;
+  position: absolute;
+  padding-left: 180px;
+  margin-top: -25px;
+}
+.two {
+  margin-bottom: 200px;
+  height: auto;
 }
